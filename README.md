@@ -40,12 +40,13 @@ My immediate goal is to **secure a Junior Data Scientist or AI Specialist role**
 
 | Platform | Link |
 | :--- | :--- |
-| **Portfolio Website** | [`https://nadupoy.github.io`](https://nadupoy.github.io) |
+| **Portfolio Website** | [`https://nadupoy.github.io`](https://grace-sampao.github.io) |
 | **LinkedIn** | [Grace Sampao](https://www.linkedin.com/in/grace-sampao) |
+| **X**        | [@grace_sampao]()
 | **Email** | sampaograce@gmail.com |
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadupoy&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grace-sampao&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true)
 
 </div>
