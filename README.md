@@ -42,7 +42,7 @@ My immediate goal is to **secure a Junior Data Scientist or AI Specialist role**
 | :--- | :--- |
 | **Portfolio Website** | [`https://nadupoy.github.io`](https://grace-sampao.github.io) |
 | **LinkedIn** | [Grace Sampao](https://www.linkedin.com/in/grace-sampao) |
-| **X**        | [@grace_sampao]()
+| **X**        | [@grace_sampao](https://x.com/grace_sampao)
 | **Email** | sampaograce@gmail.com |
 
 <div align="center">
