@@ -47,6 +47,10 @@ My immediate goal is to **secure a Junior Data Scientist or AI Specialist role**
 
 <div align="center">
 
+```
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grace-sampao&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true)
+```
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grace-sampao&show_icons=true&theme=buefy&hide_border=true)
 
 </div>
