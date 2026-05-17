@@ -34,7 +34,7 @@ This profile is my live, public **learning journal and project gallery**. It's a
 
 ## 🎯 My Ambition
 
-My immediate goal is to **secure a Junior Data Scientist or AI Specialist role** where I can apply my unique blend of analytical and design-oriented skills. I thrive on translating abstract ideas into concrete, functional solutions—whether a building or an algorithm.
+My immediate goal is to **secure a Machine Learning or AI Specialist role** where I can apply my unique blend of analytical and design-oriented skills. I thrive on translating abstract ideas into concrete, functional solutions—whether a building or an algorithm.
 
 ### **Let's Connect!**
 
