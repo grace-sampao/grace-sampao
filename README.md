@@ -1,52 +1,49 @@
 <div align="center">
 
 # Hi there! I'm Grace 👋
-### From Architecture to Algorithms: Building a Future in Math, Art & AI.
+### AI Systems Architect | Building LLM Infrastructure, Agentic Workflows & RAG Architecture
 
 ---
 
 </div>
 
-## 🏗️ The Pivot: Structural Thinking Meets AI
+## 🏗️ The Engineering Approach: Architecture to AI Systems
 
-I'm currently an architect by trade, in the process of an ambitious and self-driven pivot into **Data Science and AI**. My years in construction honed my skills in **structural integrity**, **complex problem-solving**, and **visualizing abstract concepts**—qualities I now apply to data models and algorithmic systems.
+I look at the world of Generative AI, Large Language Models (LLMs), and Autonomous Agentic Systems through a structural engineering lens. Drawing on a background in multi-phase physical architectural design, my focus is directed entirely at the infrastructure—how data, context, and intelligence are systematically organized to build reliable, enterprise-grade AI foundations.
 
-I am an enthusiast and student of:
-* **📐 Mathematics:** The core language of AI. I am engaged in deep self-study, with the goal of eventually pursuing a second undergraduate degree in the field.
-* **💻 Programming:** Focusing on Python, ML/DL frameworks, and clean, efficient code for data solutions.
-* **🎨 Computational Art:** Merging design aesthetics with algorithms to create powerful, elegant data visualizations and models.
+I treat software development and AI engineering like a physical site plan: balancing system load, defining clear data-flow paths between autonomous modules, maintaining meticulous documentation, and enforcing strict fault tolerances.
 
 ---
 
-## 💡 What You'll Find Here
+## 🛠️ Technical Focus & Repository Index
 
-This profile is my live, public **learning journal and project gallery**. It's a testament to my commitment to transitioning careers and securing my first role in the Data and AI space.
+This profile serves as a living codebase for my deep dives into the mechanics of building with AI, focusing on three foundational layers:
 
-| Repository Type | Focus Areas | Why It Matters |
+| Repository Focus | Core Areas Covered | Architectural Value |
 | :--- | :--- | :--- |
-| **`Portfolio Projects`** | Machine Learning, Deep Learning, Statistical Modeling, NLP. | Showcases my ability to tackle and complete real-world data challenges. |
-| **`Learning Logs`** | Advanced Mathematics (Calculus, Linear Algebra), Algorithm Implementation. | Demonstrates my self-directed learning, discipline, and foundational understanding. |
-| **`Jekyll Portfolio`** | Chirpy Theme Configuration, Web Development, Technical Writing. | The source code for my personal website, a hub for my entire journey. |
+| **`AI Orchestration`** | Multi-agent workflows, autonomous ReAct loops, state machines (LangChain). | Enforcing predictable execution paths and strict error-handling loops. |
+| **`Context Logistics`** | Retrieval-Augmented Generation (RAG) pipelines, vector database indexing, hierarchical chunking. | Streamlining non-parametric knowledge retrieval and data ingestion. |
+| **`Data Engineering`** | Python, Pandas, dataset transformation, structured data pipelines. | Preparing clean, real-world data payloads for downstream model consumption. |
 
-**⭐ Check out my pinned repositories below for my most impactful projects!**
+**⭐ Check out my pinned repositories below to explore structural architecture logs and codebase breakdowns.**
 
 ---
 
-## 🎯 My Ambition
+## 🔭 Trajectory & Collaboration
 
-My immediate goal is to **secure a Machine Learning or AI Specialist role** where I can apply my unique blend of analytical and design-oriented skills. I thrive on translating abstract ideas into concrete, functional solutions—whether a building or an algorithm.
+I am actively tracking roles, collaborative enterprise projects, and technical research opportunities as an **AI Systems Engineer, Analytics Architect, or Technical Systems Analyst** where rigorous structural thinking and systems design are prerequisites.
 
 ### **Let's Connect!**
 
 | Platform | Link |
 | :--- | :--- |
-| **Portfolio Website** | [https://grace-sampao.github.io](https://grace-sampao.github.io) |
-| **LinkedIn** | [Grace Sampao](https://www.linkedin.com/in/grace-sampao) |
-| **X**        | [@grace_sampao](https://x.com/grace_sampao)
+| **Technical Blog** | [https://nadupoy.github.io/about/](https://nadupoy.github.io/about/) |
+| **LinkedIn** | [Grace Sampao on LinkedIn](https://www.linkedin.com/in/grace-sampao) |
+| **X (Twitter)**   | [@grace_sampao](https://x.com/grace_sampao) |
 | **Email** | sampaograce@gmail.com |
 
 <div align="center">
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grace-sampao&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grace-sampao&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true)
 
 </div>
