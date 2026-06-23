@@ -37,7 +37,7 @@ I am actively tracking roles, collaborative enterprise projects and technical re
 
 | Platform | Link |
 | :--- | :--- |
-| **Technical Blog** | [https://grace-sampao.github.io/about/](https://grace-sampao.github.io/about/) |
+| **Technical Blog** | [https://grace-sampao.github.io/about/](https://grace-sampao.github.io) |
 | **LinkedIn** | [Grace Sampao on LinkedIn](https://www.linkedin.com/in/grace-sampao) |
 | **X (Twitter)**   | [@grace_sampao](https://x.com/grace_sampao) |
 | **Email** | sampaograce@gmail.com |
