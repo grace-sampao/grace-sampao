@@ -37,13 +37,13 @@ I am actively tracking roles, collaborative enterprise projects, and technical r
 
 | Platform | Link |
 | :--- | :--- |
-| **Technical Blog** | [https://nadupoy.github.io/about/](https://nadupoy.github.io/about/) |
+| **Technical Blog** | [https://grace-sampao.github.io/about/](https://grace-sampao.github.io/about/) |
 | **LinkedIn** | [Grace Sampao on LinkedIn](https://www.linkedin.com/in/grace-sampao) |
 | **X (Twitter)**   | [@grace_sampao](https://x.com/grace_sampao) |
 | **Email** | sampaograce@gmail.com |
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grace-sampao&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grace-sampao&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true) -->
 
 </div>
