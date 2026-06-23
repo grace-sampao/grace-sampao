@@ -9,9 +9,9 @@
 
 ## 🏗️ The Engineering Approach: Architecture to AI Systems
 
-I look at the world of Generative AI, Large Language Models (LLMs), and Autonomous Agentic Systems through a structural engineering lens. Drawing on a background in multi-phase physical architectural design, my focus is directed entirely at the infrastructure—how data, context, and intelligence are systematically organized to build reliable, enterprise-grade AI foundations.
+I look at the world of Generative AI, Large Language Models (LLMs) and Autonomous Agentic Systems through a structural engineering lens. Drawing on a background in multi-phase physical architectural design, my focus is directed entirely at the infrastructure—how data, context and intelligence are systematically organized to build reliable, enterprise-grade AI foundations.
 
-I treat software development and AI engineering like a physical site plan: balancing system load, defining clear data-flow paths between autonomous modules, maintaining meticulous documentation, and enforcing strict fault tolerances.
+I treat software development and AI engineering like a physical site plan: balancing system load, defining clear data-flow paths between autonomous modules, maintaining meticulous documentation and enforcing strict fault tolerances.
 
 ---
 
@@ -31,7 +31,7 @@ This profile serves as a living codebase for my deep dives into the mechanics of
 
 ## 🔭 Trajectory & Collaboration
 
-I am actively tracking roles, collaborative enterprise projects, and technical research opportunities as an **AI Systems Engineer, Analytics Architect, or Technical Systems Analyst** where rigorous structural thinking and systems design are prerequisites.
+I am actively tracking roles, collaborative enterprise projects and technical research opportunities as an **AI Systems Engineer, Analytics Architect or Technical Systems Analyst** where rigorous structural thinking and systems design are prerequisites.
 
 ### **Let's Connect!**
 
